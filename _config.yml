@@ -1,4 +1,4 @@
-name: WesFilms
+name: Wes
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.57785
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.125
   lightness: 0.5625
-  saturation: 0.8125
+  saturation: 0.5625
   rhythmicContrast: 1
 purpose: []

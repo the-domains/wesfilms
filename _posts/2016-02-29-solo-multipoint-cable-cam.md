@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T19:32:00.809Z'
-dateModified: '2016-02-29T19:31:35.986Z'
+datePublished: '2016-02-29T19:51:03.568Z'
+dateModified: '2016-02-29T19:32:07.432Z'
 author:
   - name: Weston Reel
     url: 'http://vimeo.com/user1768118'

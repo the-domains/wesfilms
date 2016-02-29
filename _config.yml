@@ -1,7 +1,7 @@
 name: Wes Films
 favicon: null
-layout_spectrum: 0.50172
-typography_spectrum: 0.57785
+layout_spectrum: 1
+typography_spectrum: 0.72034
 cta:
   domain: null
   bucket: null

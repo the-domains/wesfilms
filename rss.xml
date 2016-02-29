@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WesFilms]]></title>
         <description><![CDATA[WesFilms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wesfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 18:17:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 18:19:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wesfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>World wide wedding services, catered to your personal style and love.</p>]]></description>
-            <link>undefinedcd397909-7d16-4624-9804-9fa20b02cbc0/index.html</link>
+            <link>https://thegrid.ai/wesfilms/cd397909-7d16-4624-9804-9fa20b02cbc0/index.html</link>
             <guid isPermaLink="false">cd397909-7d16-4624-9804-9fa20b02cbc0</guid>
-            <pubDate>Mon, 29 Feb 2016 18:16:59 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 18:19:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

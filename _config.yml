@@ -1,0 +1,28 @@
+name: WesFilms
+favicon: null
+layout_spectrum: 0.05223604291677475
+typography_spectrum: 0.6430869102478027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.045826511923223734
+  lightness: 0.4873486156575382
+  saturation: 0.08897885796613991
+  rhythmicContrast: 0.9577750246971846
+purpose: []

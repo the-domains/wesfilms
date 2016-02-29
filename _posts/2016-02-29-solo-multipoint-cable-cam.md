@@ -1,16 +1,18 @@
 ---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-29T19:32:00.809Z'
+dateModified: '2016-02-29T19:31:35.986Z'
 author:
   - name: Weston Reel
     url: 'http://vimeo.com/user1768118'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Solo Multipoint Cable Cam" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/155263138'
     type: ios
@@ -38,15 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/155263138'
-title: Solo Multipoint Cable Cam
-datePublished: '2016-02-29T18:40:18.071Z'
-dateModified: '2016-02-29T18:39:26.562Z'
+title: ''
 sourcePath: _posts/2016-02-29-solo-multipoint-cable-cam.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: solo-multipoint-cable-cam/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

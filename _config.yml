@@ -1,7 +1,7 @@
 name: WesFilms
 favicon: null
-layout_spectrum: 0.05223604291677475
-typography_spectrum: 0.6430869102478027
+layout_spectrum: 1
+typography_spectrum: 0.57785
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.045826511923223734
-  lightness: 0.4873486156575382
-  saturation: 0.08897885796613991
-  rhythmicContrast: 0.9577750246971846
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []

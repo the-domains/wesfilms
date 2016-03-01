@@ -1,28 +1,40 @@
-name: Wes Films
-favicon: null
-layout_spectrum: 0.41769
-typography_spectrum: 0.72034
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3225806
+  brandStrength: 0.375
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#df5e00'
     - '#066374'
     - '#42d3f2'
     - '#1b1b11'
-  brandStrength: 0.375
-  lightness: 0.75
-  saturation: 0.875
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.1021505
+typography_spectrum: 0.72034
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Wes Films

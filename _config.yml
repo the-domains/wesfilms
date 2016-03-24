@@ -1,4 +1,4 @@
-layout_spectrum: 0
+name: Wes Films
 opengraph:
   image: null
   type: null
@@ -9,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3225806
-  brandStrength: 0.375
+  brandStrength: 0.1057348
   lightness: 1
   brandColors:
     - '#ffffff'
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Wes Films
+layout_spectrum: 0.5340502
